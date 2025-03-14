@@ -1,0 +1,70 @@
+# Name-That-Cloud Game Concept
+
+## Objective
+The objective of "Name-That-Cloud" is to correctly identify different types of clouds based on images provided.
+
+## Rules
+1. Players are shown an image of a cloud.
+2. Players must choose the correct cloud type from multiple options.
+3. Points are awarded for each correct answer.
+4. The game continues until a predefined number of images have been shown or a time limit is reached.
+
+## Gameplay Mechanics
+- **Start Screen**: Players start from a main menu where they can choose to play the game, view instructions, or check their scores.
+- **Image Display**: An image of a cloud is displayed at the center of the screen.
+- **Answer Options**: Multiple-choice options are shown below the image.
+- **Timer**: A countdown timer is displayed to add urgency to the game.
+- **Score**: Players' scores are displayed based on the number of correct answers.
+- **Feedback**: After each answer, players are informed whether they were correct or incorrect and given the correct answer if they were wrong.
+
+## Additional Features
+- **Levels**: The game could include multiple levels of difficulty.
+- **Hints**: Players could use hints to narrow down the answer choices.
+- **Leaderboard**: A leaderboard to show top scores.
+
+## Development Plan
+1. **Setup Project**: Initialize the project repository.
+2. **Basic UI**: Create the basic user interface with start screen and game screen.
+3. **Game Logic**: Implement the game logic for displaying images and checking answers.
+4. **Scoring System**: Develop the scoring system and display scores.
+5. **Enhancements**: Add additional features like levels, hints, and leaderboard.
+
+## Technical Requirements
+- **Programming Language**: Python
+- **Libraries**: Pygame for game development, TensorFlow for cloud recognition (optional for more advanced features)
+- **Platform**: Desktop
+# Name-That-Cloud Game Concept
+
+## Objective
+The objective of "Name-That-Cloud" is to correctly identify different types of clouds based on images provided.
+
+## Rules
+1. Players are shown an image of a cloud.
+2. Players must choose the correct cloud type from multiple options.
+3. Points are awarded for each correct answer.
+4. The game continues until a predefined number of images have been shown or a time limit is reached.
+
+## Gameplay Mechanics
+- **Start Screen**: Players start from a main menu where they can choose to play the game, view instructions, or check their scores.
+- **Image Display**: An image of a cloud is displayed at the center of the screen.
+- **Answer Options**: Multiple-choice options are shown below the image.
+- **Timer**: A countdown timer is displayed to add urgency to the game.
+- **Score**: Players' scores are displayed based on the number of correct answers.
+- **Feedback**: After each answer, players are informed whether they were correct or incorrect and given the correct answer if they were wrong.
+
+## Additional Features
+- **Levels**: The game could include multiple levels of difficulty.
+- **Hints**: Players could use hints to narrow down the answer choices.
+- **Leaderboard**: A leaderboard to show top scores.
+
+## Development Plan
+1. **Setup Project**: Initialize the project repository.
+2. **Basic UI**: Create the basic user interface with start screen and game screen.
+3. **Game Logic**: Implement the game logic for displaying images and checking answers.
+4. **Scoring System**: Develop the scoring system and display scores.
+5. **Enhancements**: Add additional features like levels, hints, and leaderboard.
+
+## Technical Requirements
+- **Programming Language**: Python
+- **Libraries**: Pygame for game development, TensorFlow for cloud recognition (optional for more advanced features)
+- **Platform**: Desktop
